@@ -7,4 +7,3 @@ My name is Meet Modi and I am a software developer from Mumbai, India. I am curr
 - 📫 How to reach me: modi2meet@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can recite the entire English Alphabet backwards! 
--->
